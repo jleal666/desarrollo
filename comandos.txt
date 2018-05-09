@@ -5,6 +5,7 @@ git commit: Hace commit de los archivos
 git log --oneline: Muestra el historial de commits
 git checkout <second commit's number> nombre_archivo : saca la version requerida en ese commit. Sacar el numero con git log
 git clone https://github.com/jleal666/desarrollo.git
+git 
 
 
 
